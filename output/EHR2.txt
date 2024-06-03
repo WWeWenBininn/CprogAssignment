@@ -1,0 +1,33 @@
+Medical history
+----------
+Patient: Harry
+Date of birth: 13-07-1999
+----------
+Allergies
+i. Peanuts
+ii. Pollen
+----------
+Past Procedures
+None
+----------
+Diagnosis
+Fever caused from overworking
+
+----------
+Prescription
+i.  Aspirin (325mg daily, started 12-01-2024)
+
+----------
+Appointment History
+Doctor: Dr. Parker
+Reason: Fever
+
+----------
+Billing Information
+First Name: Harry
+Last Name: Styles
+Address: No.13, Jalan Sutra 1
+Postcode: 37593
+Country: Malaysia
+City: Petaling Jaya
+State: Selangor

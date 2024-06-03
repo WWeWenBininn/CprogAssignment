@@ -1,0 +1,31 @@
+Medical History
+----------
+Patient: JungKook
+Date of birth: 09-01-1997
+----------
+Allergies
+None
+----------
+Past Procedures
+i. Minor skin graft (Second Degree Burn)
+----------
+Diagnosis
+Hand Foot Mouth Disease
+----------
+Prescription
+i. Antibiotics
+ii. Antiseptics 
+----------
+Appointment History
+Date: 12-06-2024
+Doctor: Dr. Who
+Reason: Checkup
+----------
+Billing Information 
+First Name: Jung Kook
+Last Name: Jeon
+Address: No.44, Jalan Desa Melur 4/1
+Postcode: 02365
+Country: Malaysia
+City: Petaling Jaya
+State: Selangor

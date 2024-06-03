@@ -1,0 +1,35 @@
+Medical History
+----------
+Patient: Seth
+Date of birth: 30-05-1985
+----------
+Allergies
+i. Dog Allergy
+----------
+Past Procedures
+i. Wisdom tooth removal
+ii. Tumor removal
+----------
+Diagnosis
+Seasonal Cold
+----------
+Prescription
+i. Analgesics
+ii. Codeine
+----------
+Appointment History
+Date: 27-02-2024
+Doctor: Dr. House
+Reason: Back pain
+
+Date: 12-04-2024
+Doctor: Dr. Parker
+Reason: Throat irritation
+----------
+Billing Information
+Last Name: Lee
+Address: No.32, Jalan Desa Melur 4/1
+Postcode: 12265
+Country: Malaysia
+City: Petaling Jaya
+State: Selangor
